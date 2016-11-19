@@ -1,1 +1,30 @@
-# readyresponder.github.io
+## ReadyResponder
+
+### This application aids volunteer organizations to manage personnel, equipment, and scheduling.
+
+The project is inspired by [Sandi Metz's call for programmers to aid their communities](https://www.youtube.com/watch?feature=player_detailpage&v=fhpT6Pc4AqM#t=1931) .  This project, in particular, looks to lessons learned in response to emergencies that inspired the National ICS program.  It has often been found that there are plentiful equipment and personnel, but not the organization to know what was available nor the ability to manage it.
+
+The goal of Ready Responder is to offer volunteer groups a program that allows them to track their resources and personnel, especially during emergencies or multi-day events.  This application might be used by volunteer firefighters, auxiliary police, Medical Reserve Corp (MRC), CERT organizations, amateur radio operators (ARES/RACES), church based relief groups, shelter managers or even science-fiction conventions.
+
+#### Current Features:
+* Web-based user interface, available from both desktop and mobile
+* Tracks complete data of personnel, including attendance, responsiveness, and training
+* Tracks equipment, including serial numbers, sources, grants, and service records
+
+#### Upcoming Features
+* Will produce QR Codes of people to allow easier addition into a cell phone
+* Will produce QR code to allow people to sign up for events
+* Will contact members via email, SMS and VOIP to alert them
+
+The program is currently in production, getting live feedback.
+
+## Contributing to Ready Responder
+We have a Slack channel at [readyresponder.slack.com](https://readyresponder.slack.com) to give help if you need it.
+
+
+## More information
+
+See [the wiki](https://github.com/ReadyResponder/ReadyResponder/wiki)!
+
+#### Contributing to ReadyResponder: Community Expectations :raised_hands:
+Head over to [github.com/ReadyResponder/ReadyResponder](https://github.com/ReadyResponder/ReadyResponder) to learn more, and contribute. We welcome help of all levels.
